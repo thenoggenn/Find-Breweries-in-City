@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#brewery-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    height: 275px;
+    width: 400px;
+    gap: 5px;
+    padding: 10px;
+}
+
+#options-menu {
+    margin-top: 50px;
+}
